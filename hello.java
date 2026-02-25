@@ -1,4 +1,4 @@
-public class DataTypesExample {
+public class  {
     public static void main( args) {
         int number = 10;
         double price = 19.99;
@@ -7,4 +7,5 @@ public class DataTypesExample {
         System.out.println("Number: " + number + ", Price: " + price);
     }
 }
+
 
